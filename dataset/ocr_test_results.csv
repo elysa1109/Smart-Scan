@@ -1,0 +1,2212 @@
+filename,no_prep_confidence,with_prep_confidence,no_prep_accuracy,with_prep_accuracy,no_prep_time,with_prep_time,no_prep_text,with_prep_text
+invoice_0000_n0_b0_r-5_br0.70.png,95.0,0.0,0.0,0.0,0.26169872283935547,0.2583281993865967,,
+invoice_0001_n0_b0_r-5_br0.85.png,91.55319148936171,94.51063829787235,100.0,95.0,0.39839816093444824,0.4173424243927002,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0002_n0_b0_r-5_br1.00.png,90.23404255319149,90.93617021276596,100.0,100.0,0.37435436248779297,0.3937211036682129,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street"
+invoice_0003_n0_b0_r-5_br1.15.png,91.27659574468085,91.14893617021276,100.0,100.0,0.38233065605163574,0.3877084255218506,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0004_n0_b0_r-5_br1.30.png,90.04255319148936,90.48936170212765,100.0,100.0,0.38365840911865234,0.39653635025024414,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0005_n0_b0_r-2_br0.70.png,94.1063829787234,94.19148936170212,95.0,95.0,0.366426944732666,0.40843963623046875,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0006_n0_b0_r-2_br0.85.png,94.19148936170212,94.23404255319149,95.0,95.0,0.376220703125,0.4053056240081787,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0007_n0_b0_r-2_br1.00.png,94.38461538461539,94.38461538461539,95.0,95.0,0.4090399742126465,0.4247555732727051,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0008_n0_b0_r-2_br1.15.png,93.82978723404256,93.97872340425532,95.0,95.0,0.3820953369140625,0.3841683864593506,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0009_n0_b0_r-2_br1.30.png,93.68085106382979,93.93617021276596,95.0,95.0,0.372204065322876,0.40270185470581055,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0010_n0_b0_r0_br0.70.png,94.16666666666667,94.48936170212765,95.0,95.0,0.32184743881225586,0.4382131099700928,": Qty: 2 - $500.00
+Product B - Qty: 1 - $234.56
+Service Fee - $100.00
+Subtotal: $834.56
+Tax (10%): $","4
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill T"
+invoice_0011_n0_b0_r0_br0.85.png,94.53191489361703,94.53191489361703,95.0,95.0,0.3713531494140625,0.4015161991119385,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0012_n0_b0_r0_br1.00.png,94.43396226415095,94.43396226415095,95.0,95.0,0.4064640998840332,0.43749475479125977,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0013_n0_b0_r0_br1.15.png,94.58490566037736,94.58490566037736,95.0,95.0,0.4146716594696045,0.42485833168029785,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0014_n0_b0_r0_br1.30.png,94.59574468085107,94.61702127659575,95.0,95.0,0.37793421745300293,0.38367199897766113,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0015_n0_b0_r2_br0.70.png,92.61702127659575,94.08333333333333,95.0,95.0,0.4338207244873047,0.47287464141845703,"-
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+423 Business Street
+
+B","Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Street
+
+Bill"
+invoice_0016_n0_b0_r2_br0.85.png,93.08333333333333,94.46808510638297,95.0,100.0,0.38996458053588867,0.4576427936553955,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","i
+P       Wee
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business S"
+invoice_0017_n0_b0_r2_br1.00.png,92.53191489361703,92.61702127659575,95.0,95.0,0.3692927360534668,0.37449049949645996,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0018_n0_b0_r2_br1.15.png,92.36170212765957,92.25531914893617,95.0,95.0,0.3643062114715576,0.39294958114624023,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0019_n0_b0_r2_br1.30.png,92.27659574468085,92.85106382978724,95.0,95.0,0.3660249710083008,0.4006483554840088,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0020_n0_b0_r5_br0.70.png,90.9795918367347,93.04255319148936,100.0,95.0,0.4027266502380371,0.459916353225708,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+","Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Street
+
+Bill"
+invoice_0021_n0_b0_r5_br0.85.png,90.3265306122449,94.27083333333333,95.0,95.0,0.39161229133605957,0.43462395668029785,"Invoice #:  INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0022_n0_b0_r5_br1.00.png,90.44680851063829,90.63829787234043,100.0,100.0,0.37888169288635254,0.3996262550354004,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0023_n0_b0_r5_br1.15.png,91.8360655737705,91.8360655737705,95.0,95.0,0.39801645278930664,0.41230177879333496,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0024_n0_b0_r5_br1.30.png,89.65,89.65,95.0,95.0,0.4028899669647217,0.4128859043121338,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0025_n0_b3_r-5_br0.70.png,95.0,0.0,0.0,0.0,0.22588372230529785,0.2474682331085205,,
+invoice_0026_n0_b3_r-5_br0.85.png,89.48936170212765,93.95744680851064,100.0,100.0,0.3766598701477051,0.4296274185180664,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0027_n0_b3_r-5_br1.00.png,90.95833333333333,90.17021276595744,100.0,100.0,0.3700680732727051,0.3880000114440918,"INVOICE
+Invoice #: INV-2024-004 23
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0028_n0_b3_r-5_br1.15.png,91.01960784313725,91.01960784313725,95.0,95.0,0.3909304141998291,0.4106311798095703,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0029_n0_b3_r-5_br1.30.png,90.40425531914893,88.91489361702128,95.0,100.0,0.365858793258667,0.3994152545928955,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0030_n0_b3_r-2_br0.70.png,94.48936170212765,93.93617021276596,100.0,100.0,0.3781545162200928,0.43308234214782715,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0031_n0_b3_r-2_br0.85.png,94.44680851063829,94.0,95.0,100.0,0.4270148277282715,0.4599764347076416,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0032_n0_b3_r-2_br1.00.png,94.36170212765957,94.53191489361703,95.0,100.0,0.3872087001800537,0.39073681831359863,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0033_n0_b3_r-2_br1.15.png,94.34615384615384,94.34615384615384,95.0,95.0,0.4367680549621582,0.511023759841919,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0034_n0_b3_r-2_br1.30.png,94.1063829787234,94.27659574468085,95.0,95.0,0.46009206771850586,0.44448256492614746,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0035_n0_b3_r0_br0.70.png,94.34042553191489,94.38297872340425,95.0,95.0,0.3849754333496094,0.466001033782959,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0036_n0_b3_r0_br0.85.png,93.84210526315789,94.43478260869566,95.0,100.0,0.32871270179748535,0.4704422950744629,": Qty: 2 - $500.00
+Product B - Qty: 1 - $234.56
+Service Fee - $100.00
+Subtotal: $834.56
+Tax (10%): $","d  INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Stre"
+invoice_0037_n0_b3_r0_br1.00.png,94.53191489361703,94.27659574468085,95.0,95.0,0.3877270221710205,0.4378972053527832,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0038_n0_b3_r0_br1.15.png,94.44680851063829,94.57446808510639,95.0,95.0,0.3957095146179199,0.4211714267730713,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0039_n0_b3_r0_br1.30.png,94.4074074074074,94.4074074074074,95.0,95.0,0.512030839920044,0.48831915855407715,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0040_n0_b3_r2_br0.70.png,93.02127659574468,94.44680851063829,95.0,100.0,0.3992927074432373,0.46802330017089844,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0041_n0_b3_r2_br0.85.png,93.17021276595744,94.63829787234043,95.0,100.0,0.3901975154876709,0.4612877368927002,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0042_n0_b3_r2_br1.00.png,93.46808510638297,93.36170212765957,95.0,100.0,0.4083099365234375,0.4126744270324707,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0043_n0_b3_r2_br1.15.png,93.40425531914893,93.63829787234043,95.0,95.0,0.3641023635864258,0.39667654037475586,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0044_n0_b3_r2_br1.30.png,92.98113207547169,92.98113207547169,95.0,95.0,0.4788699150085449,0.548330545425415,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0045_n0_b3_r5_br0.70.png,91.08510638297872,93.2127659574468,100.0,100.0,0.4593944549560547,0.5552453994750977,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street","aii            VOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Bus"
+invoice_0046_n0_b3_r5_br0.85.png,89.1875,94.4375,100.0,100.0,0.4472486972808838,0.4862399101257324,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0047_n0_b3_r5_br1.00.png,90.8695652173913,86.79166666666667,100.0,100.0,0.4265317916870117,0.4613840579986572,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0048_n0_b3_r5_br1.15.png,90.58695652173913,87.82978723404256,95.0,100.0,0.42382359504699707,0.42064976692199707,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0049_n0_b3_r5_br1.30.png,87.12765957446808,90.06521739130434,95.0,100.0,0.37039875984191895,0.42757344245910645,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0050_n0_b5_r-5_br0.70.png,95.0,95.0,0.0,90.0,0.2517092227935791,0.33760905265808105,,"23 Business Stree
+ustomer Name
+6 Client Avenue
+Product A - Qty: 2 - $500.0
+Product B - Qty: 1 - $234"
+invoice_0051_n0_b5_r-5_br0.85.png,90.68085106382979,94.14893617021276,100.0,95.0,0.40491342544555664,0.44100046157836914,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0052_n0_b5_r-5_br1.00.png,91.57692307692308,91.57692307692308,100.0,100.0,0.4222140312194824,0.514305830001831,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0053_n0_b5_r-5_br1.15.png,89.45652173913044,89.76086956521739,100.0,100.0,0.44458436965942383,0.42374110221862793,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street"
+invoice_0054_n0_b5_r-5_br1.30.png,88.12765957446808,89.3913043478261,100.0,100.0,0.42087388038635254,0.7677404880523682,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street"
+invoice_0055_n0_b5_r-2_br0.70.png,0.0,94.48936170212765,0.0,95.0,0.26024413108825684,0.44994258880615234,,"Invoice #: INV-2024-00123
+Date: January 15, 2024                                                    "
+invoice_0056_n0_b5_r-2_br0.85.png,94.57446808510639,94.2127659574468,100.0,100.0,0.4006795883178711,0.42560863494873047,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0057_n0_b5_r-2_br1.00.png,94.46153846153847,94.46153846153847,95.0,95.0,0.38326144218444824,0.41190576553344727,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0058_n0_b5_r-2_br1.15.png,94.40425531914893,94.51063829787235,100.0,100.0,0.37982726097106934,0.39173245429992676,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0059_n0_b5_r-2_br1.30.png,94.08510638297872,93.70212765957447,100.0,100.0,0.3647878170013428,0.3897860050201416,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0060_n0_b5_r0_br0.70.png,93.25531914893617,93.85106382978724,100.0,95.0,0.3752861022949219,0.40046262741088867,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0061_n0_b5_r0_br0.85.png,93.70212765957447,94.19148936170212,100.0,100.0,0.3747689723968506,0.40889549255371094,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0062_n0_b5_r0_br1.00.png,93.59574468085107,93.87234042553192,100.0,100.0,0.3648664951324463,0.4000074863433838,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0063_n0_b5_r0_br1.15.png,93.85106382978724,94.02127659574468,100.0,100.0,0.3762989044189453,0.3886525630950928,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Street
+
+Bill ","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0064_n0_b5_r0_br1.30.png,93.85106382978724,93.8936170212766,95.0,100.0,0.36701273918151855,0.4091305732727051,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0065_n0_b5_r2_br0.70.png,0.0,93.76595744680851,0.0,95.0,0.21926021575927734,0.4273545742034912,,"Invoice #: INV-2024-00123
+Date: January 15, 2024                                                    "
+invoice_0066_n0_b5_r2_br0.85.png,92.82978723404256,94.08510638297872,100.0,100.0,0.36868715286254883,0.4085693359375,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0067_n0_b5_r2_br1.00.png,93.76595744680851,93.61702127659575,100.0,100.0,0.3671591281890869,0.3926846981048584,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0068_n0_b5_r2_br1.15.png,93.25,93.25,95.0,95.0,0.3943300247192383,0.40508174896240234,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0069_n0_b5_r2_br1.30.png,92.01923076923077,92.01923076923077,95.0,95.0,0.40311765670776367,0.406404972076416,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+1423 Business Street
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+1423 Business Street
+Bill To"
+invoice_0070_n0_b5_r5_br0.70.png,87.13636363636364,88.47916666666667,100.0,100.0,0.3515143394470215,0.4808225631713867,"#: INV-2024-00123
+Date: January 15, 2024
+423 Business Street
+Bill To:
+Customer Name
+456 Client Avenu","| a J
+              OICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+"
+invoice_0071_n0_b5_r5_br0.85.png,89.85106382978724,94.2127659574468,100.0,95.0,0.3778047561645508,0.40972375869750977,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0072_n0_b5_r5_br1.00.png,86.6875,87.06122448979592,100.0,100.0,0.37591552734375,0.3925960063934326,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street"
+invoice_0073_n0_b5_r5_br1.15.png,91.52380952380952,91.52380952380952,95.0,95.0,0.40189051628112793,0.417025089263916,"Invoice #:  INV-2024-001 23
+Date: January 45, 2024
+From: ACME Corporation
+123 Business Street
+Bill T","Invoice #:  INV-2024-001 23
+Date: January 45, 2024
+From: ACME Corporation
+123 Business Street
+Bill T"
+invoice_0074_n0_b5_r5_br1.30.png,91.42622950819673,91.42622950819673,95.0,95.0,0.39580321311950684,0.40595054626464844,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0075_n0_b7_r-5_br0.70.png,95.0,95.0,0.0,65.0,0.23221349716186523,0.295835018157959,,"e: January 15, 202+
+m: ACME Cc
+
+To
+
+ce Fee - $100.00"
+invoice_0076_n0_b7_r-5_br0.85.png,90.1875,94.12765957446808,100.0,100.0,0.37547969818115234,0.42429184913635254,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0077_n0_b7_r-5_br1.00.png,90.71739130434783,90.52272727272727,100.0,100.0,0.3748645782470703,0.3976466655731201,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street"
+invoice_0078_n0_b7_r-5_br1.15.png,92.13725490196079,92.13725490196079,100.0,100.0,0.3961467742919922,0.42409300804138184,"Invoice #: INV-2024-00123
+Date January 15. 2024
+From: ACME Corporation
+123 Business Street
+Bill To:
+","Invoice #: INV-2024-00123
+Date January 15. 2024
+From: ACME Corporation
+123 Business Street
+Bill To:
+"
+invoice_0079_n0_b7_r-5_br1.30.png,89.76086956521739,89.77777777777777,100.0,100.0,0.3639664649963379,0.3998548984527588,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0080_n0_b7_r-2_br0.70.png,0.0,93.95744680851064,0.0,100.0,0.22809934616088867,0.43820619583129883,,"— INVOICE
+| Invoice #: INV-2024-00123
+Date: January 15, 2024                                        "
+invoice_0081_n0_b7_r-2_br0.85.png,94.1063829787234,93.97872340425532,100.0,100.0,0.37349486351013184,0.41745805740356445,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0082_n0_b7_r-2_br1.00.png,94.25,94.25,100.0,100.0,0.3909931182861328,0.42082786560058594,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0083_n0_b7_r-2_br1.15.png,94.29787234042553,93.27659574468085,100.0,100.0,0.3705778121948242,0.38881850242614746,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0084_n0_b7_r-2_br1.30.png,94.2127659574468,92.8936170212766,100.0,100.0,0.3628809452056885,0.3918733596801758,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0085_n0_b7_r0_br0.70.png,94.02127659574468,93.76595744680851,100.0,100.0,0.3624448776245117,0.4186093807220459,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0086_n0_b7_r0_br0.85.png,91.77777777777777,91.54166666666667,95.0,100.0,0.2784748077392578,0.4348461627960205,"4
+B - Qty: 1 - $234.56
+Service Fee - $100.00
+Tax (10%): $83.46
+TOTAL: $918.02
+f","P.
+
+INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Str"
+invoice_0087_n0_b7_r0_br1.00.png,93.95744680851064,94.25531914893617,100.0,100.0,0.3582162857055664,0.4061877727508545,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0088_n0_b7_r0_br1.15.png,93.14893617021276,93.85106382978724,100.0,100.0,0.37061285972595215,0.38944339752197266,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0089_n0_b7_r0_br1.30.png,93.30909090909091,93.30909090909091,95.0,95.0,0.39719438552856445,0.4138920307159424,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0090_n0_b7_r2_br0.70.png,0.0,92.91836734693878,0.0,100.0,0.223114013671875,0.4359860420227051,,"— INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024                                          "
+invoice_0091_n0_b7_r2_br0.85.png,91.5,93.81632653061224,95.0,100.0,0.30792903900146484,0.4491136074066162,"Items:
+
+Product A - Qty: 2 - $500.00
+Product B - Qty: 1 - $234.56
+Service Fee - $100.00
+Subtotal: $8","“Invoice
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street"
+invoice_0092_n0_b7_r2_br1.00.png,92.9423076923077,92.9423076923077,100.0,100.0,0.39728522300720215,0.4106628894805908,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0093_n0_b7_r2_br1.15.png,92.51923076923077,92.51923076923077,100.0,100.0,0.4035985469818115,0.41526222229003906,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0094_n0_b7_r2_br1.30.png,93.14285714285714,93.14285714285714,95.0,95.0,0.38933801651000977,0.4187030792236328,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0095_n0_b7_r5_br0.70.png,95.0,0.0,0.0,5.0,0.22929120063781738,0.2656564712524414,,ii
+invoice_0096_n0_b7_r5_br0.85.png,87.04166666666667,93.91489361702128,100.0,100.0,0.365706205368042,0.4285414218902588,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0097_n0_b7_r5_br1.00.png,83.5,88.67391304347827,100.0,100.0,0.3405485153198242,0.40709567070007324,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0098_n0_b7_r5_br1.15.png,86.47916666666667,88.82222222222222,100.0,100.0,0.36400675773620605,0.4006369113922119,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15. 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0099_n0_b7_r5_br1.30.png,86.89473684210526,89.66666666666667,100.0,100.0,0.343991756439209,0.4064674377441406,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0100_n10_b0_r-5_br0.70.png,95.0,95.0,0.0,0.0,0.2791104316711426,0.37819957733154297,,
+invoice_0101_n10_b0_r-5_br0.85.png,91.60416666666667,94.29166666666667,100.0,95.0,0.4315073490142822,0.4543342590332031,"INVOICE
+Invoice #: INV-2024-004 23
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0102_n10_b0_r-5_br1.00.png,91.17307692307692,95.0,100.0,80.0,0.46708059310913086,0.5301084518432617,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation                     ","tY/
+a,
+fe O
+sO
+aot,
+Die  *.
+CO,
+Po oy @ Y
+O, Oy, Sa AE
+ley, “Us ae, Se)
+&  Uy CS ORR e)
+WY   &, Oo,
+"
+invoice_0103_n10_b0_r-5_br1.15.png,90.57446808510639,91.27083333333333,100.0,100.0,0.4209630489349365,0.4552311897277832,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #:  INV-2024-004 23
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Stree"
+invoice_0104_n10_b0_r-5_br1.30.png,89.51063829787235,89.54166666666667,100.0,100.0,0.43173933029174805,0.4472939968109131,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #:  INV-2024-004 23
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Stree"
+invoice_0105_n10_b0_r-2_br0.70.png,94.36170212765957,93.38297872340425,95.0,95.0,0.39539122581481934,0.5202267169952393,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0106_n10_b0_r-2_br0.85.png,94.25531914893617,94.19148936170212,95.0,95.0,0.406635046005249,0.526188850402832,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0107_n10_b0_r-2_br1.00.png,94.12765957446808,94.31914893617021,95.0,95.0,0.41690850257873535,0.43332934379577637,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0108_n10_b0_r-2_br1.15.png,93.0754716981132,95.0,95.0,80.0,0.47368717193603516,0.48986077308654785,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation                             ","oe -
+ae O,
+Og My HO.
+4, ey  &}
+Ce Ny,
+Br   YWw   ‘L
+v7 1G,   <5
+Sy, Me 75. SO
+eG >. Sy
+%,    ""ee a, "
+invoice_0109_n10_b0_r-2_br1.30.png,93.91489361702128,94.36170212765957,95.0,95.0,0.4019637107849121,0.4393441677093506,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0110_n10_b0_r0_br0.70.png,94.36170212765957,93.57446808510639,95.0,95.0,0.43052124977111816,0.5130188465118408,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0111_n10_b0_r0_br0.85.png,94.55319148936171,93.34042553191489,95.0,95.0,0.4163055419921875,0.5199782848358154,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0112_n10_b0_r0_br1.00.png,94.64150943396227,95.0,100.0,80.0,0.4842338562011719,0.4780309200286865,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation                             ","Ly}
+Aes  Ce
+es Ne.   @ Fa
+Om, Pu, MV
+Z ) ce)  k
+<3  (e) ‘dy  <0
+Sug. Ue oe, <y
+:   i)  0,  22,  O
+Si"
+invoice_0113_n10_b0_r0_br1.15.png,94.51063829787235,0.0,95.0,45.0,0.41199493408203125,0.39531922340393066,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","ce
+a
+om xo sa
+x one en
+on oe
+ce
+oo wo”
+Red) ove* wor
+Coe :
+oon ae oe ©
+ee : a ree oe
+oe  ° gn oo
+3°"""
+invoice_0114_n10_b0_r0_br1.30.png,94.57446808510639,73.08823529411765,95.0,100.0,0.4490702152252197,0.4976933002471924,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","nvoice #. ipvv-2024-00728
+pate: january AS; 2024
+From: ACME corporation
+423 Business street
+Bill To:"
+invoice_0115_n10_b0_r2_br0.70.png,93.02127659574468,93.59574468085107,95.0,95.0,0.4089031219482422,0.5148825645446777,"Invoice #; INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0116_n10_b0_r2_br0.85.png,92.98412698412699,94.16326530612245,95.0,95.0,0.4461688995361328,0.5044155120849609,"Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+423 Business Street
+
+Bill","~ INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Stree"
+invoice_0117_n10_b0_r2_br1.00.png,92.12765957446808,92.38297872340425,95.0,95.0,0.41001415252685547,0.4371156692504883,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0118_n10_b0_r2_br1.15.png,92.72340425531915,92.57446808510639,95.0,95.0,0.411022424697876,0.4356529712677002,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0119_n10_b0_r2_br1.30.png,92.87234042553192,92.04255319148936,95.0,95.0,0.4066009521484375,0.43128347396850586,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0120_n10_b0_r5_br0.70.png,95.0,95.0,0.0,0.0,0.27561497688293457,0.37558865547180176,,
+invoice_0121_n10_b0_r5_br0.85.png,90.0625,91.65957446808511,95.0,95.0,0.42174220085144043,0.5151643753051758,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0122_n10_b0_r5_br1.00.png,90.36170212765957,89.17021276595744,100.0,100.0,0.42766547203063965,0.4651501178741455,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0123_n10_b0_r5_br1.15.png,88.29787234042553,89.08333333333333,100.0,100.0,0.4298069477081299,0.4603235721588135,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0124_n10_b0_r5_br1.30.png,91.2063492063492,95.0,100.0,80.0,0.47189950942993164,0.4199345111846924,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","eh | low
+Ce, say,
+ae 1S 02,
+y   <0>
+oe
+eae Steg,
+817,
+a,
+on                                 BS
+ia
+“o"
+invoice_0125_n10_b3_r-5_br0.70.png,87.6078431372549,91.32,100.0,100.0,0.4671211242675781,0.4740328788757324,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+f-  Invoice #: INV-2024-00123
+| Date: January 15, 2024
+| From: ACME Corporation
+| 123 Busine"
+invoice_0126_n10_b3_r-5_br0.85.png,88.28070175438596,94.19148936170212,100.0,100.0,0.47268176078796387,0.4749464988708496,"INVOICE
+Invoice #:  INV-2024-004 2)
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Stree","Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Street
+
+Bill "
+invoice_0127_n10_b3_r-5_br1.00.png,90.17021276595744,90.91489361702128,100.0,100.0,0.44644737243652344,0.47478556632995605,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0128_n10_b3_r-5_br1.15.png,89.38297872340425,89.87234042553192,100.0,100.0,0.46079277992248535,0.45927929878234863,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0129_n10_b3_r-5_br1.30.png,89.80851063829788,90.17021276595744,95.0,100.0,0.45075297355651855,0.4638519287109375,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0130_n10_b3_r-2_br0.70.png,94.23404255319149,94.04255319148936,100.0,100.0,0.44356632232666016,0.44628357887268066,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0131_n10_b3_r-2_br0.85.png,94.12765957446808,93.8936170212766,100.0,100.0,0.4505884647369385,0.44683408737182617,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0132_n10_b3_r-2_br1.00.png,94.53191489361703,94.25531914893617,95.0,100.0,0.43837857246398926,0.4476492404937744,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0133_n10_b3_r-2_br1.15.png,94.29787234042553,94.40425531914893,95.0,95.0,0.4380626678466797,0.4640383720397949,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0134_n10_b3_r-2_br1.30.png,94.23404255319149,93.97872340425532,95.0,95.0,0.44960999488830566,0.4542269706726074,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0135_n10_b3_r0_br0.70.png,94.27659574468085,94.2127659574468,95.0,95.0,0.4181172847747803,0.4410698413848877,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0136_n10_b3_r0_br0.85.png,94.55319148936171,94.23404255319149,95.0,100.0,0.42195773124694824,0.453690767288208,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0137_n10_b3_r0_br1.00.png,94.53191489361703,93.97872340425532,95.0,95.0,0.4536724090576172,0.45026111602783203,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To"
+invoice_0138_n10_b3_r0_br1.15.png,92.44067796610169,95.0,100.0,60.0,0.5081725120544434,0.42060112953186035,"Invoice #: INV-2024-00123                               ;
+Date: January 15, 2024
+From: ACME Corporat","fe
+SCN
+%,
+‘S J
+Fe,     n,
+ss     <4
+Ges   ,   “,,
+a    |
+ee ace  .
+oes,   °
+%,
+%
+0.
+Xo,
+%
+os oy,
+a
+“"
+invoice_0139_n10_b3_r0_br1.30.png,94.35714285714286,95.0,100.0,75.0,0.5098927021026611,0.47397303581237793,"Invoice #: INV-2024-00123
+Date: January 15, 2024                                                  :
+","epee |
+o y% Y
+4, %. “%  (@)
+> —% =, ©
+3 Nip Ma Y
+Xe te 25 kK,
+Y   75, %, Sd. &
+oY >   Oran <s  %
+%, "
+invoice_0140_n10_b3_r2_br0.70.png,92.87234042553192,94.1063829787234,95.0,100.0,0.436673641204834,0.4543166160583496,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0141_n10_b3_r2_br0.85.png,93.32142857142857,93.42857142857143,95.0,100.0,0.3796563148498535,0.4614379405975342,"Items:
+
+Product A - Qty: 2 - $500.00
+
+Product B - Qty: 1 - $234.56
+
+Service Fee - $100.00
+
+Subtotal:","aie    NVOICE
+_ Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business"
+invoice_0142_n10_b3_r2_br1.00.png,93.26923076923077,95.0,100.0,60.0,0.5044941902160645,0.412473201751709,"Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+423 Business Street
+
+Bill","Loy %
+%.      &
+%,
+Oe   er
+&    ss      S,
+<  ys     Y         2,
+a   a5      PG,
+Ry  :  ‘en   Oe,  "
+invoice_0143_n10_b3_r2_br1.15.png,92.95744680851064,92.97872340425532,95.0,95.0,0.4548008441925049,0.45736193656921387,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+1423 Business Street
+Bill To","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0144_n10_b3_r2_br1.30.png,92.02127659574468,92.85106382978724,95.0,95.0,0.44399046897888184,0.45762085914611816,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0145_n10_b3_r5_br0.70.png,89.72,94.08,100.0,100.0,0.4797194004058838,0.4766411781311035,"ai
+~ INVOICE
+Invoice #:  INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business S","~ INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Stree"
+invoice_0146_n10_b3_r5_br0.85.png,88.85106382978724,94.33333333333333,100.0,100.0,0.4620969295501709,0.48360657691955566,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+","Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Street
+
+Bill "
+invoice_0147_n10_b3_r5_br1.00.png,90.16666666666667,95.0,100.0,70.0,0.5051720142364502,0.4434702396392822,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","VLE “Ce
+ie, fe ie
+a,             ,
+xc *8 “Oa,
+a   5
+% SSS
+SS
+we
+i, Ng .
+“ws
+“n.                     "
+invoice_0148_n10_b3_r5_br1.15.png,90.17391304347827,87.91489361702128,95.0,100.0,0.44995594024658203,0.4695751667022705,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0149_n10_b3_r5_br1.30.png,90.42553191489361,89.25531914893617,95.0,100.0,0.43955039978027344,0.4721686840057373,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0150_n10_b5_r-5_br0.70.png,95.0,95.0,0.0,45.0,0.2978804111480713,0.3934018611907959,,Tax (10%): $83 4¢
+invoice_0151_n10_b5_r-5_br0.85.png,91.25,90.17021276595744,100.0,95.0,0.454087495803833,0.5085422992706299,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0152_n10_b5_r-5_br1.00.png,90.21739130434783,91.04347826086956,100.0,100.0,0.44670772552490234,0.46657228469848633,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street"
+invoice_0153_n10_b5_r-5_br1.15.png,90.49019607843137,90.49019607843137,100.0,100.0,0.5006179809570312,0.5040686130523682,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0154_n10_b5_r-5_br1.30.png,90.32608695652173,89.4,100.0,100.0,0.4514155387878418,0.4543602466583252,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street"
+invoice_0155_n10_b5_r-2_br0.70.png,90.88461538461539,93.07894736842105,95.0,100.0,0.40304017066955566,0.45618295669555664,"’                     +e
+Items:
+Product A - Qty: 2 - $500.00
+Product B - Qty: 1 - $234.56
+Service Fe","VOICE ""=
+é          ice #: INV-2024-00123
+""Date: January 15, 2024
+| From: ACME Corporation
+Bill To:
+"
+invoice_0156_n10_b5_r-2_br0.85.png,94.42553191489361,94.12765957446808,100.0,100.0,0.45537900924682617,0.4434177875518799,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0157_n10_b5_r-2_br1.00.png,94.44680851063829,94.19148936170212,100.0,100.0,0.4548821449279785,0.4606819152832031,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0158_n10_b5_r-2_br1.15.png,94.44680851063829,94.46808510638297,100.0,100.0,0.44129490852355957,0.4681885242462158,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0159_n10_b5_r-2_br1.30.png,94.27659574468085,94.1063829787234,100.0,100.0,0.44746828079223633,0.4622330665588379,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0160_n10_b5_r0_br0.70.png,95.83333333333333,91.16666666666667,85.0,95.0,0.3339414596557617,0.4957420825958252,"Gee ;
+""Service Fee - $100.00
+“oermapeage
+oo
+TOTAL: $918.02","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0161_n10_b5_r0_br0.85.png,93.65957446808511,93.91489361702128,100.0,100.0,0.45436811447143555,0.46898317337036133,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0162_n10_b5_r0_br1.00.png,94.25454545454545,94.25454545454545,100.0,100.0,0.49292993545532227,0.5034186840057373,"Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation                           ","Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation                           "
+invoice_0163_n10_b5_r0_br1.15.png,93.46808510638297,94.04255319148936,100.0,100.0,0.4507734775543213,0.46866774559020996,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Street
+
+Bill ","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0164_n10_b5_r0_br1.30.png,94.29787234042553,93.70212765957447,95.0,100.0,0.4337198734283447,0.4741549491882324,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+
+Bill To","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0165_n10_b5_r2_br0.70.png,90.11111111111111,93.36734693877551,90.0,100.0,0.4323711395263672,0.5068325996398926,"ie Sig erie
+         ems:
+oduct A - Qty: 2 - $500.00
+oduct B - Qty: 1 - $234.56
+Fee - $100.00
+Subtot","Pivoice
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0166_n10_b5_r2_br0.85.png,93.4074074074074,94.14285714285714,95.0,100.0,0.3903632164001465,0.4535844326019287,"oy
+
+Items:
+Product A - Qty: 2 - $500.00
+
+Product B - Qty: 1 - $234.56
+
+Service Fee - $100.00
+
+Subtot","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0167_n10_b5_r2_br1.00.png,92.88461538461539,92.88461538461539,100.0,100.0,0.4881279468536377,0.4982776641845703,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0168_n10_b5_r2_br1.15.png,91.90384615384616,91.90384615384616,100.0,100.0,0.4809305667877197,0.5017411708831787,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0169_n10_b5_r2_br1.30.png,92.0,94.17021276595744,100.0,100.0,0.4508795738220215,0.46474671363830566,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+1423 Business St","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0170_n10_b5_r5_br0.70.png,95.0,95.0,0.0,0.0,0.297623872756958,0.39154052734375,,
+invoice_0171_n10_b5_r5_br0.85.png,88.28571428571429,93.5,100.0,95.0,0.4511401653289795,0.515955924987793,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+Bill To:"
+invoice_0172_n10_b5_r5_br1.00.png,86.8125,87.18367346938776,100.0,100.0,0.44743967056274414,0.4623403549194336,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street"
+invoice_0173_n10_b5_r5_br1.15.png,90.23728813559322,90.23728813559322,100.0,100.0,0.4929850101470947,0.5097167491912842,"INVOICE
+Invoice #:  INV-2024-001 23
+Date: January 45, 2024
+From: ACME Corporation
+123 Business Stree","INVOICE
+Invoice #:  INV-2024-001 23
+Date: January 45, 2024
+From: ACME Corporation
+123 Business Stree"
+invoice_0174_n10_b5_r5_br1.30.png,92.15,92.15,100.0,100.0,0.4889094829559326,0.5102930068969727,"Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0175_n10_b7_r-5_br0.70.png,95.0,95.0,0.0,0.0,0.28775763511657715,0.3096909523010254,,
+invoice_0176_n10_b7_r-5_br0.85.png,89.83673469387755,94.23404255319149,100.0,100.0,0.4416356086730957,0.47722792625427246,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0177_n10_b7_r-5_br1.00.png,88.0,91.54545454545455,100.0,100.0,0.4434170722961426,0.4584376811981201,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street"
+invoice_0178_n10_b7_r-5_br1.15.png,88.04347826086956,90.95555555555555,100.0,100.0,0.44873762130737305,0.4644184112548828,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street"
+invoice_0179_n10_b7_r-5_br1.30.png,89.78260869565217,89.1086956521739,100.0,100.0,0.4539215564727783,0.45595264434814453,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+"
+invoice_0180_n10_b7_r-2_br0.70.png,0.0,93.95744680851064,0.0,100.0,0.2963268756866455,0.4959561824798584,,|                                                                                                   
+invoice_0181_n10_b7_r-2_br0.85.png,94.51063829787235,94.08510638297872,100.0,100.0,0.4457995891571045,0.446134090423584,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0182_n10_b7_r-2_br1.00.png,93.85714285714286,93.85714285714286,100.0,100.0,0.4705228805541992,0.48563051223754883,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0183_n10_b7_r-2_br1.15.png,94.25531914893617,94.34042553191489,100.0,100.0,0.4296247959136963,0.43528175354003906,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0184_n10_b7_r-2_br1.30.png,93.7872340425532,93.55319148936171,100.0,100.0,0.43473124504089355,0.4340050220489502,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0185_n10_b7_r0_br0.70.png,94.23404255319149,93.42553191489361,100.0,100.0,0.44466352462768555,0.43230366706848145,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0186_n10_b7_r0_br0.85.png,94.38297872340425,94.19148936170212,100.0,100.0,0.4392979145050049,0.45078229904174805,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0187_n10_b7_r0_br1.00.png,93.80851063829788,93.80851063829788,100.0,100.0,0.42733001708984375,0.44617271423339844,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0188_n10_b7_r0_br1.15.png,93.39622641509433,93.39622641509433,100.0,100.0,0.465118408203125,0.4837920665740967,"INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+123 Business Stre"
+invoice_0189_n10_b7_r0_br1.30.png,94.2127659574468,94.19148936170212,100.0,100.0,0.4528965950012207,0.44376635551452637,"INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0190_n10_b7_r2_br0.70.png,0.0,94.29787234042553,0.0,100.0,0.2823216915130615,0.46936774253845215,,"~ INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024                                        "
+invoice_0191_n10_b7_r2_br0.85.png,93.38297872340425,93.57446808510639,100.0,100.0,0.4364330768585205,0.4481842517852783,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0192_n10_b7_r2_br1.00.png,91.67307692307692,91.67307692307692,100.0,100.0,0.4852316379547119,0.4937119483947754,"Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:","Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+Bill To:"
+invoice_0193_n10_b7_r2_br1.15.png,93.0,93.31914893617021,100.0,100.0,0.4339103698730469,0.43682098388671875,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0194_n10_b7_r2_br1.30.png,93.55319148936171,92.51063829787235,100.0,100.0,0.4402782917022705,0.43390512466430664,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+
+Invoice #: INV-2024-00123
+
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Str"
+invoice_0195_n10_b7_r5_br0.70.png,95.0,95.0,0.0,10.0,0.2879188060760498,0.30055904388427734,,40°
+invoice_0196_n10_b7_r5_br0.85.png,87.79166666666667,92.97872340425532,100.0,100.0,0.429858922958374,0.4565393924713135,"INVOICE
+invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+
+From: ACME Corporation
+
+123 Business Stre"
+invoice_0197_n10_b7_r5_br1.00.png,85.1875,90.52173913043478,100.0,100.0,0.438065767288208,0.4378640651702881,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #: INV-2024-00123
+Date: January 45, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0198_n10_b7_r5_br1.15.png,88.375,89.71739130434783,100.0,100.0,0.42970752716064453,0.4398000240325928,"INVOICE
+Invoice #:  INV-2024-00123
+Date: January 15. 2024
+From: ACME Corporation
+123 Business Street","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+"
+invoice_0199_n10_b7_r5_br1.30.png,90.16666666666667,88.73333333333333,100.0,100.0,0.4268810749053955,0.4384279251098633,"INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+123 Business Street
+","INVOICE
+Invoice #: INV-2024-00123
+Date: January 15, 2024
+From: ACME Corporation
+423 Business Street
+"
