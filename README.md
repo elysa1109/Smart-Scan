@@ -52,7 +52,13 @@ The system has two parts:
     - pytesseract
 
 ================================================================
-2. SETUP INSTRUCTIONS
+2. DATASET
+================================================================
+
+You can view and download the dataset in the dataset folder, or go to https://www.kaggle.com/datasets/elysalee/smart-scan-dataset to download the dataset.
+
+================================================================
+3. SETUP INSTRUCTIONS
 ================================================================
 
 STEP 1: Get the source code
@@ -90,7 +96,7 @@ Make sure Android Studio is installed and an Android Emulator (AVD) is
 set up and started before proceeding to the next step.
 
 ================================================================
-3. HOW TO RUN THE PROJECT
+4. HOW TO RUN THE PROJECT
 ================================================================
 
 TERMINAL 1 - Start the backend server:
@@ -112,7 +118,7 @@ TERMINAL 2 - Start the mobile app:
 - The app will connect to the backend server to process scanned images.
 
 ================================================================
-4. NOTES
+5. NOTES
 ================================================================
 - Backend logs each processed test to logs/test_results.csv automatically 
   (this folder is created automatically if it doesn't exist).
