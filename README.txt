@@ -1,4 +1,4 @@
-================================================================
+﻿================================================================
 SMART SCAN AI - ADAPTIVE OCR DOCUMENT SCANNER
 README / SETUP INSTRUCTIONS
 ================================================================
@@ -54,11 +54,8 @@ The system has two parts:
 ================================================================
 2. DATASET
 ================================================================
-This project does NOT require a custom or downloaded dataset. Tesseract 
-OCR uses its own pre-trained language models (installed automatically 
-with the Tesseract engine in step 1.2). Document images are supplied 
-live by the user through the mobile app (camera capture or file upload) 
-and are not stored as a training dataset.
+
+You can view and download the dataset in the dataset folder, or go to https://www.kaggle.com/datasets/elysalee/smart-scan-dataset to download the dataset.
 
 ================================================================
 3. SETUP INSTRUCTIONS
